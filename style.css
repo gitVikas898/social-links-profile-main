@@ -55,7 +55,7 @@
 }
 *{
     box-sizing: border-box;
-    font-family: "Inter";
+    font-family: "Inter",sans-serif;
     color: white;
 }
 body{
@@ -98,7 +98,7 @@ section{
 }
 .social{
     width: var(--width-ok);
-    padding: 0.5rem var(--padding-med);
+    padding: 0.8rem var(--padding-med);
     margin-bottom: var(--margin-init);
     text-align: center;
     text-decoration: none;
